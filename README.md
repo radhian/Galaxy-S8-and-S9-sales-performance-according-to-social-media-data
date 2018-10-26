@@ -21,7 +21,7 @@ This project evaluates how the social media data can be laveraged to analyze the
 
 
 
-3. According to Ravaja et. al. [1], The products that have a lower price would influance the purchase intent. Therefore, the time-lag of the more expensive product supposed to be higher than the cheaper one. Since galaxy s9 comes with higher price, the third hypothesis would be written as : <b>H3 : The time lag is expected to be longer for galaxy s9.</b>
+3. According to Ravaja et. al. [1], The products that have a lower price would influance the purchase intent. Therefore, the time-lag of the more expensive product supposed to be higher than the cheaper one. Since galaxy s9 comes with higher price, the third hypothesis would be written as : <b>H3 : The time-lag is expected to be longer for galaxy s9.</b>
 
 
 
