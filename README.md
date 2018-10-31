@@ -34,3 +34,10 @@ Our hypothesis is whether sales and trends have a significant relationship linea
 According the results, all of the results shows a strong correlation between sales and trends data for every social media. In this case, all P-values are below the confident level (i.e. 0.5). The evidence is also stronger because of the high values of R-squared. It indicates the variance of the linear estimation and the scattered data is quite small. Thus, the scattered data is considerably fit enough with the linear estimation. Therefore, our hypothesis is considerably proven. 
 However, the Google shopping results always show the smallest R-squared result and the largest P-value. This phenomenon depicts the google shopping has the weakest relationship to the sales. Figure 1. can explain how this can happen. Among those figures, the trends of google shopping did not drop dramatically after the launch in the first month. While the sales dropped significantly after the first month of launch, especially for galaxy s8. Thus, the sales are slightly not aligned with the google shopping trends. As the result, Google shopping shows the weakest relation among others.
 
+
+3.2	Prediction
+
+
+In order to establish a proper sales prediction, a higher resolution of sales datasets is required. The sales prediction could be determined using the coefficient from linear regression and the time-lag.  The time-lag can be obtained by using cross-correlation method. This method will work adequately if we have a quite large dataset. 
+This prediction also proves the galaxy s8 wins the sales number compared to s9 because Galaxy s8 is noticeably more attractive in social media.
+
