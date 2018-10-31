@@ -17,6 +17,7 @@ First thing first, this research is started from the question: “How to predict
 To simplify this, the hypothesis for this research would be “The number of sales increases proportionally when the number of search on the corresponding social media increase”. A linear regression is utilized as a data analytic model. The linear regression can determine whether the sales and trends are correlated linearly. Also, we are able to predict the future sales for those smartphones if the datasheet shows a good linear correlation between sales and trends. 
 
 2.2	     Data Collection
+
 The sales data of Galaxy s8 and s9 are retrieved from the news snapshots from internet. The data were collected quarterly from January 2017 until September 2018. The sales data for Galaxy s8 is only available on Q1-Q4 2017. Whereas the sales data for Galaxy s9 is only available on Q1-Q3 2018.
 The trends data are collected from Google Trends which can be searched via the search term, timeframe, and the geographic location. The search term requires the specific keywords that users are likely to search and representing the smartphones models. In this case, the keywords for each smartphone would be “galaxy s8” and “galaxy s9”. The geographic location is determined as a worldwide. For the time frame, we need to specify the trends for every quarter year period. Accordingly, the sales and trends data are available to be proceed. 
 
