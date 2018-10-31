@@ -13,7 +13,7 @@ This project evaluates how the social media data can be leveraged to analyze the
 <b>Methods</b> : 
 
 
-1. Assume that The trend is the independent variable, Here, Trend is expected to have a positive influence on the dependent variable. In this case, the dependent variable will be the number of sales of the samsung galaxy S8 (or S9). If the datasheet shows a good linear correation between sales and trend, we can predict the future sales of those mobile phones. Therefore, the first hypothesis would be:<b>H1 : The number of sales increases proportionally when the number of searches on youtube and web search increase. </b>
+1. Assume that The trend is the independent variable. Here, Trend is expected to have a positive influence on the dependent variable. In this case, the dependent variable will be the number of sales of the samsung galaxy S8 (or S9). If the datasheet shows a good linear correation between sales and trend, we are able to predict the future sales of those mobile phones. Therefore, the first hypothesis would be:<b>H1 : The number of sales increases proportionally when the number of searches on youtube and web search increase. </b>
 
 
 
