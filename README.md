@@ -1,6 +1,6 @@
 # Galaxy-S8-and-S9-sales-performance-according-to-social-media-data
 
-This project evaluates how the social media data can be leveraged to analyze the sales performance of galaxy s8 and s9. In order to narrow down the project outcome, we are going to predict the sales numbers for both mobile phone based on the trends on youtube search, web search and google shopping. The sales data is elaborated from several news/snapshots, while the social media data is retrievied from google trends
+This project evaluates how the social media data can be leveraged to analyze the sales performance of galaxy s8 and s9. In order to narrow down the project outcome, we are going to predict the sales numbers for both mobile phone based on the trends on youtube search, web search and google shopping. The sales data is elaborated from several news/snapshots, while the social media data is retrieved from google trends
 
 
 
